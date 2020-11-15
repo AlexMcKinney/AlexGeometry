@@ -3,7 +3,7 @@ plugins {
     id 'idea'
 }
 
-group 'org.example'
+group 'alex.utils'
 version '4.2'
 
 repositories {
